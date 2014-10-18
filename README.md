@@ -1,6 +1,6 @@
 # Padrino tutorial.
 
-Getting started.
+Getting started :).
 
 ## What's this all about?
 
