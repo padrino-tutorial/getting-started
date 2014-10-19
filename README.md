@@ -19,9 +19,7 @@ The "knowledge milestones", or the topics we'll cover, will highly likely be the
 
 - layout the idea / problem being solved;
 
-- setup the environment:
-
-    I'd love to showcase postmodern's concepts -we've been using chruby and its friends in production for a long while now and they truly shine.
+- [how to setup the working environment](https://github.com/padrino-tutorial/getting-started/blob/master/base-setup.md).
 
 - build a minimal prototype that works:
 
