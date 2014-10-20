@@ -18,6 +18,10 @@ wget -O ruby-install-master.tar.gz https://github.com/postmodern/ruby-install/ar
 tar -xzvf ruby-install-master.tar.gz
 cd ruby-install-master/
 sudo make install
+```
+
+Then:
+```
 ruby-install ruby
 ```
 
